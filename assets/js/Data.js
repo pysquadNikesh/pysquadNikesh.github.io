@@ -45,11 +45,11 @@ export const services = [
 ];
 
 export const education = [
-  { degree: "MCA", institute: "Gujarat Vidyapith", year: "2015 - 2018" },
+  { degree: "Master of Computer Application", institute: "Gujarat Vidyapith, Ahmedabad", year: "2015 - 2018" },
 
   {
-    degree: "BCA",
-    institute: "HNGU",
+    degree: "Bachelor of Computer Application",
+    institute: "HNGU, Patan",
     year: "2012 - 2015",
   },
 ];
@@ -57,7 +57,7 @@ export const education = [
 export const experience = [
   {
     designation: "Sr. Odoo Developer",
-    company: "Freelancer",
+    company: "Pysquad Informatics LLP",
     year: "2020 - Present",
   },
 
@@ -68,7 +68,7 @@ export const experience = [
   },
 
   {
-    designation: "Odoo Developer",
+    designation: "Jr. Odoo Developer",
     company: "Serpent Consulting Services Pvt Ltd",
     year: "2018 - 2019",
   },
